@@ -1,1 +1,1 @@
-# Scripts
+Toggles touchpad on/off
