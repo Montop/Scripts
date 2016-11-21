@@ -1,1 +1,3 @@
 # Scripts
+
+For Manjaro
